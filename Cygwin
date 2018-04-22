@@ -1,0 +1,13 @@
+The packages to have when installing Linux with the help of a VM are
+
+curl
+python (2.7.x)
+python-jinja
+python-crypto
+python-openssl
+python-setuptools
+git (1.7.x)
+vim
+openssh
+openssl
+openssl-devel
